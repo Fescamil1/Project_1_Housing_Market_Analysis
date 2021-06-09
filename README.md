@@ -1,7 +1,9 @@
 # Project_1_Housing_Market_Analysis
 
 
-# Project Title: Housing Market Analysis
+# Project Title: Housing Market Analysis Project Proposal
+
+NOTE: This is the initial project proposal. Final scope and results can be found in the PPTX document posted in the repository. 
 
 ##### Team Members: 
 
